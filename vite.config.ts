@@ -24,7 +24,7 @@ export default defineConfig({
     react({
       babel: {
         plugins: [
-          "react-native-web",
+          // "react-native-web",
           "@babel/plugin-proposal-export-namespace-from",
           "react-native-reanimated/plugin",
         ],
